@@ -13,7 +13,7 @@
 /*header styles*/
 
 header {
-    background-image: url('./day.jpeg');
+    background-image: url('./assets/day.jpeg');
     height: 300px;
     background-size: cover;
     background-position: center;
